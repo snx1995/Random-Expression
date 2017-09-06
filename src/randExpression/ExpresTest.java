@@ -13,6 +13,10 @@ class Expression {
 		result = R;
 	}
 	
+	public String getExpression() {
+		return expression;
+	}
+	
 	public String toString() {
 		return expression + " = " + result;
 	}
