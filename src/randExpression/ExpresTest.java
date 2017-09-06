@@ -1,7 +1,10 @@
 package randExpression;
 
 public class ExpresTest {
-
+	public static void main(String[] args) {
+		
+	}
+	
 }
 
 class Requirement {
